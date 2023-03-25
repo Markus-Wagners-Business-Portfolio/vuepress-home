@@ -1,7 +1,7 @@
 {
-  "name": "blog",
+  "name": "markus-wagner-home-page",
   "version": "1.0.0",
-  "description": "个人博客",
+  "description": "My personal homepage & blog based on vue-press template by Mr. Hope",
   "type": "module",
   "scripts": {
     "build:vite": "vuepress-vite build src",
@@ -19,11 +19,19 @@
     "lint-md": "markdownlint **/*.md --ignore node_modules --fix",
     "test": "echo \"Warning: no test specified\" && exit 0"
   },
-  "author": "Mr.Hope",
+  "author": "Markus Wagner (Cloud Crusader/diox/Escalation Expert)",
   "license": "MIT",
   "keywords": [
     "vuepress",
-    "personal-blog"
+    "vue",
+    "homepage",
+    "home",
+    "blog",
+    "website",
+    "personal-blog",
+    "developer",
+    "traveler",
+    "dj"
   ],
   "dependencies": {
     "@vuepress/cli": "2.0.0-beta.60",

@@ -1,5 +1,6 @@
 {
   "cSpell.words": ["codeql", "fastcgi", "mrhope", "pnpm", "vite"],
 
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "nuxt.isNuxtApp": false
 }
